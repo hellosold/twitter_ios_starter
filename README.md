@@ -1,4 +1,5 @@
 
+
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
@@ -23,5 +24,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src=''gif.gif", title='Video Walkthrough' width='800' alt='Video Walkthrough' />
+![](https://i.imgur.com/9JkLwHH.gif)
