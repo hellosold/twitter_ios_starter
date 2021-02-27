@@ -24,5 +24,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here is the gif:
-![](https://i.imgur.com/HfetU9K.gif)
-<img src="https://i.imgur.com/HfetU9K.gif" width="250"/>
+<img src="ezgif.com-gif-maker.gif" width="250"/>
