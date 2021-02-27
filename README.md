@@ -25,3 +25,4 @@ The following **bonus** features are implemented:
 
 Here is the gif:
 ![](https://i.imgur.com/HfetU9K.gif)
+<img src="https://i.imgur.com/HfetU9K.gif" width="250"/>
